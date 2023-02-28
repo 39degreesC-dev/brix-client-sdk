@@ -1,0 +1,8 @@
+framework module BrixHub {
+    umbrella header "BrixHub.h"
+
+    export *
+    module * { export * }
+
+    use Foundation
+}
